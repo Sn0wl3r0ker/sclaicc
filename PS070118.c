@@ -1,4 +1,4 @@
-/* PS070118.c 10050735 ªL¸t®¦ */
+/* PS070118.c   */
 #include <stdio.h> 
 int main(void)
 {

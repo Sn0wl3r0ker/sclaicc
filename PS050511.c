@@ -1,4 +1,4 @@
-/* PS050511.c 10050735 ªL¸t®¦  */
+/* PS050511.c    */
 #include <stdio.h>
 
 int main(void)

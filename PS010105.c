@@ -1,4 +1,4 @@
-/* PS010105.c 10050735 林聖恩 */
+/* PS010105.c   */
 #include <stdio.h>
 
 int main()

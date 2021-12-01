@@ -1,4 +1,4 @@
-/* PS030113.c 10050735 ªL¸t®¦ 20211005 */
+/* PS030113.c   20211005 */
 #include <stdio.h>
 
 int main(void)
