@@ -6,7 +6,7 @@ int main(void)
 	scanf("%d", &n);
 	while(n>0)
 	{
-		i=n/10;
+		i=n%10;
 		n/=10;
 		s+=i;
 	}
